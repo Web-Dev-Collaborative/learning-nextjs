@@ -213,7 +213,7 @@
     "ignore-loader": "0.1.2",
     "is-docker": "2.0.0",
     "is-wsl": "2.2.0",
-    "json5": "2.2.0",
+    "json5": "2.2.2",
     "jsonwebtoken": "8.5.1",
     "loader-utils": "2.0.0",
     "lodash.curry": "4.1.1",
